@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512473779 source:g:\program kedudukan lingkaran\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512613821 source:g:\rumus_kedudukan2lingkaran\main.c
+	<stdio.h>
+	<stdlib.h>
+

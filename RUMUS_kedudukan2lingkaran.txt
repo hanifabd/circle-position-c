@@ -1,0 +1,39 @@
+PENJELASAN PROGRAM RUMUS_kedudukan2lingkaran
+
+========================================PENJELASAN VARIABEL============================================
+Variabel Untuk Lingkaran 1-----------------------------------------------------------
+x21 	= konstanta x^2 dari lingkaran 1
+y21 	= konstanta x^2 dari lingkaran 1	
+x1  	= konstanta x^2 dari lingkaran 1
+y1  	= konstanta x^2 dari lingkaran 1
+c1  	= konstanta x^2 dari lingkaran 1
+a1	= nilai a dari lingkaran 1
+b1	= nilai b dari lingkaran 1
+r1	= nilai jari-jari dari lingkaran 1
+Variabel Untuk Lingkaran 2-----------------------------------------------------------
+x22 	= konstanta x^2 dari lingkaran 2
+y22 	= konstanta y^2 dari lingkaran 2
+x2  	= konstanta x dari lingkaran 2
+y2  	= konstanta y dari lingkaran 2
+c2  	= konstanta c dari lingkaran 2
+a2  	= nilai a dari lingkaran 2
+b2  	= nilai b dari lingkaran 2
+r2  	= nilai jari-jari dari lingkaran 2
+Variabel Pembanding------------------------------------------------------------------
+rtot	= nilai dari penjumlahan r1 dan r2
+d	= nilai d (jarak antara kedua lingkaran)
+
+===========================================PENJELASAN ALGORITMA============================================
+1. User diminta untuk memasukan konstanta dari setiap variabel (sesuai dengan keterangan yang diminta) yang ada pada kedua persamaan lingkaran
+2. Program menyimpan nilai setiap variabel untuk dapat menampilkan bentuk persamaan yang dimaksud serta menghitung TITK PUNCAK(TP), JARI-JARI(R), dan JARAK(D)
+   serta menentukan kedudukan lingkaran
+3. Program menampilkan bentuk persamaan dari hasil inputan yang dilakukan oleh user
+4. Program menampilkan hasil dari operasi perhitungan untuk menampilkan TITIK PUNCAK dari kedua lingkaran
+5. Program menampilkan hasil dari operasi perhitungan untuk menampilkan JARI-JARI dari kedua lingkaran 
+6. Program menampilkan hasil dari operasi perhitungan untuk menampilkan JARAK(D) antara kedua lingkaran
+7. Program menghitung nilai dari penjumlahan JARI-JARI LINGKARAN 1 dan JARI-JARI LINGKARAN 2 --------------> JARI-JARI TOTAL (rtot)
+8. Program akan membandingkan nilai antara  JARAK KEDUA LINGKARAN dengan JARI-JARI TOTAL
+	- Jika JARAK KEDUA LINGKARAN > JARI-JARI TOTAL maka program akan menampilkan "KEDUDUKAN KEDUA LINGKARAN BERJAUHAN" 
+	- Jika JARAK KEDUA LINGKARAN > JARI-JARI TOTAL maka program akan menampilkan "KEDUDUKAN KEDUA LINGKARAN BERPOTONGAN"
+	- Jika JARAK KEDUA LINGKARAN > JARI-JARI TOTAL maka program akan menampilkan "KEDUDUKAN KEDUA LINGKARAN BERSINGGUNGAN"
+9.Program selesai
